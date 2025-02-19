@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "email": "luke.skywalker@couchsourfing.com",
+      "title": "Jedi Knight",
+      "about": "I grew up on a farm in Tatooine. Now I travel around the galaxy helping people. I love meeting new friends and learning about the Force. My favorite things are flying X-wing ships and training to be a better Jedi. I want to make the galaxy a better place for everyone.",
+      "profilePic": "/images/users/luke.jpg",
+      "friends": [2, 3, 5]
+    },
+    {
+      "id": 2,
+      "name": "Leia Organa",
+      "email": "leia.organa@couchsourfing.com",
+      "title": "Resistance Leader",
+      "about": "I work hard to help people be free in the galaxy. I love meeting travelers and sharing stories about different planets. My home is always open to friends who fight for freedom. I enjoy planning missions and making new friends in the Resistance.",
+      "profilePic": "/images/users/leia.jpg",
+      "friends": [1, 4, 6]
+    },
+    {
+      "id": 3,
+      "name": "Han Solo",
+      "email": "han.solo@couchsourfing.com",
+      "title": "Galactic Smuggler",
+      "about": "I travel everywhere in my ship, the Millennium Falcon. It's the fastest ship you'll ever see! I know all the best places to eat and drink in every spaceport. Looking for adventure? I'm your guy. Just don't ask too many questions about my cargo.",
+      "profilePic": "/images/users/han.jpg",
+      "friends": [1, 4, 7]
+    },
+    {
+      "id": 4,
+      "name": "Chewbacca",
+      "email": "chewbacca@couchsourfing.com",
+      "title": "Wookiee Warrior",
+      "about": "I am Han's best friend and the best copilot in the galaxy. I love fixing ships and helping my friends. My home planet Kashyyyk is beautiful - lots of trees! I can carry heavy things and give the best hugs. RRRRRR-ghghghghghgh!",
+      "profilePic": "/images/users/chewie.jpg",
+      "friends": [2, 3, 8]
+    },
+    {
+      "id": 5,
+      "name": "Obi-Wan Kenobi",
+      "email": "obi.wan@couchsourfing.com",
+      "title": "Jedi Master",
+      "about": "I used to be a Jedi teacher. Now I live in the desert and watch over Luke. I like to tell stories about the old days. I can teach you about the Force and show you some cool lightsaber moves. I always try to find peaceful solutions.",
+      "profilePic": "/images/users/obiwan.jpg",
+      "friends": [1, 6, 9]
+    },
+    {
+      "id": 6,
+      "name": "Yoda",
+      "email": "yoda@couchsourfing.com",
+      "title": "Grand Master",
+      "about": "900 years old, I am. In my swamp home on Dagobah, I live. Teaching young Jedi is what I do best. Like to share my soup, I do. Wisdom and funny stories, I have many. Welcome to visit, you are.",
+      "profilePic": "/images/users/yoda.jpg",
+      "friends": [2, 5, 8]
+    },
+    {
+      "id": 7,
+      "name": "Lando Calrissian",
+      "email": "lando.calrissian@couchsourfing.com",
+      "title": "Cloud City Administrator",
+      "about": "Welcome to Cloud City! I run this place and make sure everyone has a good time. I love playing cards and telling stories about my adventures. My home has the best views in the galaxy. Just don't trust me in a card game!",
+      "profilePic": "/images/users/lando.jpg",
+      "friends": [3, 8, 9]
+    },
+    {
+      "id": 8,
+      "name": "R2-D2",
+      "email": "r2.d2@couchsourfing.com",
+      "title": "Astromech Droid",
+      "about": "Beep boop! I'm a small droid but I can fix anything! I've been on many adventures with Luke and C-3PO. I can help you fly your ship or hack into computers. I save my friends all the time! Beep beep boop!",
+      "profilePic": "/images/users/r2d2.jpg",
+      "friends": [4, 6, 7]
+    },
+    {
+      "id": 9,
+      "name": "C-3PO",
+      "email": "c.3po@couchsourfing.com",
+      "title": "Protocol Droid",
+      "about": "Oh my! I speak over six million languages and love to help with translations. I always try to be polite and follow the rules. R2-D2 is my best friend, even though he can be quite silly. I worry a lot about everything!",
+      "profilePic": "/images/users/c3po.jpg",
+      "friends": [5, 7, 8]
+    },
+    {
+      "id": 10,
+      "name": "Darth Vader",
+      "email": "darth.vader@couchsourfing.com",
+      "title": "Sith Lord",
+      "about": "I am in charge of the Empire's ships. I wear black and have a special mask to help me breathe. I used to be a Jedi, but now I follow the dark side. I like order and making sure everyone follows the rules. Join me, and together we can rule the galaxy!",
+      "profilePic": "/images/users/vader.jpg",
+      "friends": [11, 12, 13]
+    },
+    {
+      "id": 11,
+      "name": "Emperor Palpatine",
+      "email": "emperor.palpatine@couchsourfing.com",
+      "title": "Galactic Emperor",
+      "about": "I am the Emperor of the galaxy! I like to wear dark robes and talk about power. Everything is going according to my plan. I can teach you the dark side of the Force. My lightning powers are very impressive!",
+      "profilePic": "/images/users/palpatine.jpg",
+      "friends": [10, 12, 14]
+    },
+    {
+      "id": 12,
+      "name": "Grand Moff Tarkin",
+      "email": "moff.tarkin@couchsourfing.com",
+      "title": "Imperial Commander",
+      "about": "I am the commander of the Death Star. I like things to be clean and organized. I work with Darth Vader to keep the galaxy in order. I believe fear is the best way to control people. My space station is very big and powerful.",
+      "profilePic": "/images/users/tarkin.jpg",
+      "friends": [10, 11, 13]
+    },
+    {
+      "id": 13,
+      "name": "Boba Fett",
+      "email": "boba.fett@couchsourfing.com",
+      "title": "Bounty Hunter",
+      "about": "I am the best bounty hunter in the galaxy. My armor is very special to me. I always catch the people I'm looking for. I don't talk much, but I get the job done. My ship is called Slave I, and it's very fast.",
+      "profilePic": "/images/users/boba.jpg",
+      "friends": [10, 12, 14]
+    },
+    {
+      "id": 14,
+      "name": "Jabba The Hutt",
+      "email": "jabba.hutt@couchsourfing.com",
+      "title": "Crime Lord",
+      "about": "I run all the business on Tatooine. My house is very big and I have many friends who work for me. I like music and good food. If you need something special, I can help - for a price. Just don't make me angry!",
+      "profilePic": "/images/users/jabba.jpg",
+      "friends": [11, 13, 10]
+    }
+  ]
+} 
